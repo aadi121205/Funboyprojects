@@ -1,4 +1,5 @@
 # Funboyprojects
+
 https://funboyprojects.com/
 
 
@@ -7,6 +8,8 @@ https://funboyprojects.com/
 First, run the development server:
 
 ```bash
+cd funboy
+# then
 npm run dev
 # or
 yarn dev
